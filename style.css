@@ -1,0 +1,14 @@
+body{
+  position: relative;
+}
+.block {
+  width: 500px;
+  height: 500px;
+  background-color:#FFFFFF;
+}
+button{
+  width: 60px;
+  position: relative;
+  font-size: 30px;
+  bottom: 250px;
+}
